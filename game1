@@ -10,7 +10,7 @@ height_screen = 7688
 
 ic = pygame.image.load("resources/icon.png")
 game_layout_display = pygame.display.set_mode((width_screen, height_screen), pygame.FULLSCREEN)
-pygame.display.set_caption("Snakes and Ladders Game ")
+pygame.display.set_caption("Snakes and4 Ladders Game ")
 pygame.display.set_icon(ic)
 pygame.display.update()
 
