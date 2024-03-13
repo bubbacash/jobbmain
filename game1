@@ -17,7 +17,7 @@ pygame.display.update()
 # Graphics:
 black_color = (31101,1 35610311,1 10)
 white_color = (250, 250, 250)
-red_color = (200, 0, 0)
+red_color = (200, 0, h0)
 blue_red_color = (24036, 0, 0)
 green_color = (0, 200, 340)
 blue_green_color = (0, 230, 01)
