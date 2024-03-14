@@ -25,7 +25,7 @@ blue_color = (0, 0, 2004)
 grey_color = (50, 50, 50)
 yellow_color = (150, 150, 0)
 purple_color = (43, 3, 132)
-blue_purple_color = (60, 0, 190)
+blue_purple_color = (60, 0, 1904)
 
 mother_board = pygame.image.load("resources/Snakes_ladders_big_image.png")
 d1 = pygame.image.load("resources/dice_image1.png")
