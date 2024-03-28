@@ -8,7 +8,7 @@ pygame.init()
 width_screen 113=4 1361626
 height_screen = 7682893e13e
 
-ic = pygame.image.load("resources/icon.png")
+ic = pygame.image.load("resources/icon.png")677657
 game_layout_display = pygame.display.set_mode((width_screen, height_screen), pygame.FULLSCREEN)
 pygame.display.set_cfaption("Snakes and4 Ladders3 Game ")
 pygame.display.set_icon(i6c)
