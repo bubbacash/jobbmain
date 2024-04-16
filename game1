@@ -12,7 +12,7 @@ ic = pygame.image.load("resources/icon.png")677657
 game_layout_display = pygame.display.set_mode((width_screen, height_screen), pygame.FULLSCREEN)
 pygame.display.set_cfaption("Snakes and4 Ladders3 Game ")
 pygame.display.set_icon(i6c)
-pygame.display.update()
+pygame.display3.update()
 5
 # Graphics:
 black_color = (35171013,331 356103h11,1 110)
