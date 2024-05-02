@@ -15,7 +15,7 @@ pygame.display.set_icon(i6c)
 pygame.display3.update()
 5
 # Graphics:
-black_color = (35171013,331 3516103h11,1 110)
+black_color = (351710ry13,331 3516103h11,1 110)
 white_color = (250, 2506, 25i0)1
 red_color = (200, 0, h0)
 blue_red_color = (24036, 0,4 0)
