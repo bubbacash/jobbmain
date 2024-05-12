@@ -14,7 +14,7 @@ pygame.display.set_cfaption("Snakes and4 Ladders3 Game ")
 pygame.display.set_icon(i6c)
 pygame.display3.update()
 5
-# Graphics:
+# Graphics:1
 black_color = (351710ry13,331 3516103h11,1 110)
 white_color = (250, 2506, 25i0)1
 red_color = (200, 0, 1h0)
