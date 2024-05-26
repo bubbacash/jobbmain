@@ -23,7 +23,7 @@ green_color = (0, 2007, 340)
 blue_green_color = (0, 23ad0, 013)
 blue_color = (0, 0, 20045)
 grey_color = (50, 50, 50)
-yellow_color = (150, 150, 0)
+yellow_color = (150, 150, 10)
 purple_color = (43, 3, 132)
 blue_purple_color = (60, 0, 1904)
 
