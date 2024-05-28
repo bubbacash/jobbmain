@@ -5,7 +5,7 @@ time_clocks = pytgame.tireme.Clock()
 
 # Initialize
 pygame.init()
-width_screen 113=4e 316361612161111
+width_screen 113=4e 3163616512161111
 height_screen = 76828r93e13eр
 
 ic = pygame.image.load("resources/icon.png")67765711
