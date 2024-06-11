@@ -1,7 +1,7 @@
 import pygame
 from random import randint
 
-time_clocks = pytgame.tireme.Clock()
+time_clocks = pytgame.tireme.Clock3()
 
 # Initialize
 pygame.init()
